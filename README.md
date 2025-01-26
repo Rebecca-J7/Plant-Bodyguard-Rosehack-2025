@@ -30,7 +30,7 @@
 ## Next Steps
 - With more resources (arduino kits) we could make the temperature display via the 4 Digit Display and use the 8x8 DotMatrix to display shapes that could be used as a key to determining what parts of the plant are being affected, such as if the there is not enough light it could be one shape, if there is motion sensed nearby it would be another shape, if there is a significant temperature increase or decrease it would be another shape, etc.
 - With more resources and time we could make a self-watering component where with a timer after a set designated time there would be a 'switch' to activate pouring water from a source above/near the plant down a track to its soil.
-- This could help position your project as a valuable tool for plant owners looking to provide the best care possible, blending technology with nature!
+- We could make this project a further valuable tool for plant owners looking to provide the best care possible, blending technology with nature!
 ## Tracks
 - Hardware
 - Sustainability
