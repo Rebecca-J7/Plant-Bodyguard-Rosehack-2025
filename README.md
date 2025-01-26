@@ -14,7 +14,7 @@
 - Sense movement is nearby, and a buzzer sound will be played if something is within range of the plant.
 ## Challenges
 - Finding a way to prevent the temperature sensor from being affected by the heating up due to excess voltage.
-- The temperature keeps reading at a significantly higher one than the actual temperature in the room.
+- The temperature keeps reading significantly higher than the actual temperature in the room.
 - This project required us to use a lot of components in conjunction with one another, thus it was quite challenging to adjust the code so that they ran smoothly.
 ## Accomplishments
 - Getting the photoresistor to work in sync with and control the brightness of the LED.
@@ -29,12 +29,13 @@
 - Building a well-structured model to fit along with our Arduino components.
 ## Next Steps
 - With more resources (arduino kits) we could make the temperature display via the 4 Digit Display and use the 8x8 DotMatrix to display shapes that could be used as a key to determining what parts of the plant are being affected, such as if the there is not enough light it could be one shape, if there is motion sensed nearby it would be another shape, if there is a significant temperature increase or decrease it would be another shape, etc.
+- With more resources and time we could make a self-watering component where with a timer after a set designated time there would be a 'switch' to activate pouring water from a source above/near the plant down a track to its soil.
 - This could help position your project as a valuable tool for plant owners looking to provide the best care possible, blending technology with nature!
 ## Tracks
 - Hardware
 - Sustainability
 ## Schematics
-[Plant Bodyguard Arduino Schematics](https://drive.google.com/file/d/1zsMzNTuNgyAjQdLWABOHtQkM3kKnk8Yc/view?usp=sharing)
+[Plant Bodyguard Arduino Schematics](https://drive.google.com/file/d/1YNK4rFoyuLAuqwZ_h0ggeEZhw9TuqFms/view?usp=sharing)
 ## Arduino Code
 - The code file has been uploaded to this GitHub repository!
 ## PowerPoint Presentation
