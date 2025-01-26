@@ -34,4 +34,4 @@
 ## Schematics
 
 ## Power Point Presentation
-[https://docs.google.com/presentation/d/1dIug8CcKoXWjLIH0ACUsbeNFddMJ1S-CdpY8tr9mh6Y/edit?usp=sharing]
+[Demo Presentation](https://docs.google.com/presentation/d/1dIug8CcKoXWjLIH0ACUsbeNFddMJ1S-CdpY8tr9mh6Y/edit?usp=sharing)
