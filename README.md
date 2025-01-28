@@ -1,15 +1,13 @@
 # Rosehack 2025 Project - Plant Bodyguard 2000
 ## Idea
 - Our "Plant Bodyguard" is an innovative system designed to monitor the critical conditions around plants, ensuring they are kept in optimal environments for growth by providing users with real-time feedback on environmental conditions.
--  It helps prevent common issues like underexposure to light, temperature stress, and neglect.
 -  The proactive monitoring system ensures the plant receives the optimal conditions it needs to grow and thrive, making it easier for both novice and experienced gardeners to maintain healthy plants.
--  As GenZ, one of our primary focuses is sustainability to combat climate change.
-- Our motto is, if we must protect our planet we should start by protecting our plants. 
-- We also thought incorporating plants would be a nice nod to the theme of Rose Hack. Finally, the RoseHack logo also inspired us greatly.
+-  As GenZ, one of our primary focuses is sustainability to combat climate change. Our motto is, if we must protect our planet we should start by protecting our plants. 
+- We also thought incorporating plants would be a nice nod to the theme of Rose Hack since the logo inspired us greatly.
 - Additionally, staying true to our track of sustainability, we used 100% recycled cardboard which makes up the casing of our project. 
 ## What It Does
 - Holds a plant in the center with our components surrounding it.
-- Senses the light in the area and LED shines bright if there is less light and is dim if there is enough light for the plant.
+- Sense the light in the area and a green LED dims if there is not enough light for the plant and shines bright if there is enough light for the plant.
 - Senses the temperature in the area around the plant (displays in the Arduino IDE).
 - Sense movement is nearby, and a buzzer sound will be played if something is within range of the plant.
 ## Challenges
