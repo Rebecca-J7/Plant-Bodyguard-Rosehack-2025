@@ -7,7 +7,7 @@
 - Additionally, staying true to our track of sustainability, we used 100% recycled cardboard which makes up the casing of our project. 
 ## What It Does
 - Holds a plant in the center with our components surrounding it.
-- Sense the light in the area and a green LED dims if there is not enough light for the plant and shines bright if there is enough light for the plant.
+- Senses the light in the area and a green LED dims if there is not enough light for the plant and shines bright if there is enough light for the plant.
 - Senses the temperature in the area around the plant (displays in the Arduino IDE).
 - Sense movement is nearby, and a buzzer sound will be played if something is within range of the plant.
 ## Challenges
@@ -26,8 +26,10 @@
 (photoresistor, DHT11 (Temperature Sensor), passive buzzer, HC SR04 (Motion Sensor))
 - Building a well-structured model to fit along with our Arduino components.
 ## Next Steps
-- With more resources (arduino kits) we could make the temperature display via the 4 Digit Display and use the 8x8 DotMatrix to display shapes that could be used as a key to determining what parts of the plant are being affected, such as if the there is not enough light it could be one shape, if there is motion sensed nearby it would be another shape, if there is a significant temperature increase or decrease it would be another shape, etc.
-- With more resources and time we could make a self-watering component where with a timer after a set designated time there would be a 'switch' to activate pouring water from a source above/near the plant down a track to its soil.
+- With more resources, we could make each component function more smoothly without much delay or being prone to errors.
+- LED lights to show if was too hot or too cold for the temperature or a display of the temperature number and unit
+- We could make a self-watering component where based on readings of a soil moisture sensor it could activate to pur water from a source above/near the plant down a track to its soil.
+- Web Application to modify parameters for the plant you are monitoring - detect when it’s day/night, send alerts based on what is triggered with the plant.
 - We could make this project a further valuable tool for plant owners looking to provide the best care possible, blending technology with nature!
 ## Tracks
 - Hardware
